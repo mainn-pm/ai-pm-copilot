@@ -15,7 +15,11 @@ public static class DependencyInjection
         services.Configure<OpenAISettings>(
             configuration.GetSection(OpenAISettings.SectionName));
 
-        services.AddScoped<IAIClient, OpenAIChatClient>();
+        services.Configure<OllamaSettings>(
+            configuration.GetSection(OllamaSettings.SectionName));
+
+        // Chọn Ollama làm AI Provider mặc định
+        services.AddHttpClient<IAIClient, OllamaChatClient>();
 
         return services;
     }

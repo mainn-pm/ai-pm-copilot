@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI.PM.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8a49cc3762a3c84f4915120da3e5e2f82e2009")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f74659ff730e301bb7a95b510c012ae8bce58d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI.PM.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI.PM.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
