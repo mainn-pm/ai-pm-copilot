@@ -1,0 +1,6 @@
+@AI.PM.Api_HostAddress = http://localhost:5062
+
+GET {{AI.PM.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

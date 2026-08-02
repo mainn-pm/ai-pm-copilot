@@ -1,0 +1,15 @@
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/bin/Debug/net10.0/AI.PM.Infrastructure.deps.json
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/bin/Debug/net10.0/AI.PM.Infrastructure.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/bin/Debug/net10.0/AI.PM.Infrastructure.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/bin/Debug/net10.0/AI.PM.Domain.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/bin/Debug/net10.0/AI.PM.Domain.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.csproj.AssemblyReference.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.AssemblyInfoInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.AssemblyInfo.cs
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.In.C8A0B173.Up2Date
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/refint/AI.PM.Infrastructure.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/AI.PM.Infrastructure.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/obj/Debug/net10.0/ref/AI.PM.Infrastructure.dll

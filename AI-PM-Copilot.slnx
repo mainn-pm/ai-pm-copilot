@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AI.PM.Api/AI.PM.Api.csproj" />
+    <Project Path="src/AI.PM.Application/AI.PM.Application.csproj" />
+    <Project Path="src/AI.PM.Contracts/AI.PM.Contracts.csproj" />
+    <Project Path="src/AI.PM.Domain/AI.PM.Domain.csproj" />
+    <Project Path="src/AI.PM.Infrastructure/AI.PM.Infrastructure.csproj" />
+  </Folder>
+</Solution>

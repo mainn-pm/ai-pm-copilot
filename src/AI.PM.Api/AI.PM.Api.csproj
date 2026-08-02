@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>4dee8677-86dd-45f2-acfd-f97da27482d6</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AI.PM.Application\AI.PM.Application.csproj" />
+    <ProjectReference Include="..\AI.PM.Infrastructure\AI.PM.Infrastructure.csproj" />
+    <ProjectReference Include="..\AI.PM.Contracts\AI.PM.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

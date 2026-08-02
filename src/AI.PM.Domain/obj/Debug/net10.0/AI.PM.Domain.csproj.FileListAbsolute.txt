@@ -1,0 +1,11 @@
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/bin/Debug/net10.0/AI.PM.Domain.deps.json
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/bin/Debug/net10.0/AI.PM.Domain.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/bin/Debug/net10.0/AI.PM.Domain.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.AssemblyInfoInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.AssemblyInfo.cs
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.csproj.CoreCompileInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/refint/AI.PM.Domain.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/AI.PM.Domain.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Domain/obj/Debug/net10.0/ref/AI.PM.Domain.dll

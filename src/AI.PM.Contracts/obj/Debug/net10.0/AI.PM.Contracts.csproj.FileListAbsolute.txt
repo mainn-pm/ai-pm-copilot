@@ -1,0 +1,11 @@
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/bin/Debug/net10.0/AI.PM.Contracts.deps.json
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/bin/Debug/net10.0/AI.PM.Contracts.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/bin/Debug/net10.0/AI.PM.Contracts.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.AssemblyInfoInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.AssemblyInfo.cs
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.csproj.CoreCompileInputs.cache
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/refint/AI.PM.Contracts.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/AI.PM.Contracts.pdb
+/Users/mei/AI-PM-Copilot/src/AI.PM.Contracts/obj/Debug/net10.0/ref/AI.PM.Contracts.dll

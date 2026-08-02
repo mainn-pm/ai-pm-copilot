@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AI.PM.Application/1.0.0": {
+        "dependencies": {
+          "AI.PM.Contracts": "1.0.0",
+          "AI.PM.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AI.PM.Application.dll": {}
+        }
+      },
+      "AI.PM.Contracts/1.0.0": {
+        "runtime": {
+          "AI.PM.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AI.PM.Domain/1.0.0": {
+        "runtime": {
+          "AI.PM.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI.PM.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AI.PM.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AI.PM.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
