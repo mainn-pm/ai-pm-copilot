@@ -1,29 +1,35 @@
 using AI.PM.Domain.Interfaces;
 using AI.PM.Infrastructure.Configuration;
 using Microsoft.Extensions.Options;
+using OpenAI.Chat;
 
 namespace AI.PM.Infrastructure.AI;
 
-public class OpenAIChatClient : IAIClient
+public sealed class OpenAIChatClient : IAIClient
 {
-    private readonly HttpClient _httpClient;
-    private readonly OpenAISettings _settings;
+    private readonly ChatClient _chatClient;
 
-    public OpenAIChatClient(
-        HttpClient httpClient,
-        IOptions<OpenAISettings> options)
+    public OpenAIChatClient(IOptions<OpenAISettings> options)
     {
-        _httpClient = httpClient;
-        _settings = options.Value;
+        var settings = options.Value;
+
+        _chatClient = new ChatClient(
+            model: settings.Model,
+            apiKey: settings.ApiKey);
     }
 
     public async Task<string> ChatAsync(
         string prompt,
         CancellationToken cancellationToken = default)
     {
-        // Tạm thời chưa gọi OpenAI
-        await Task.CompletedTask;
+        var result = await _chatClient.CompleteChatAsync(
+            new[]
+            {
+                new UserChatMessage(prompt)
+            },
+            cancellationToken: cancellationToken);
 
-        return $"OpenAI Client nhận được: {prompt}";
+        return result.Value.Content.FirstOrDefault()?.Text
+            ?? "Không có phản hồi từ GPT.";
     }
 }

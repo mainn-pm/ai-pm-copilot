@@ -1,11 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "jzRGTjFLlog=",
+  "dgSpecHash": "JqTNQC+6ZAk=",
   "success": true,
   "projectFilePath": "/Users/mei/AI-PM-Copilot/src/AI.PM.Infrastructure/AI.PM.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/mei/.nuget/packages/microsoft.extensions.ai.abstractions/10.8.3/microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
-    "/Users/mei/.nuget/packages/microsoft.extensions.ai.openai/10.8.3/microsoft.extensions.ai.openai.10.8.3.nupkg.sha512",
     "/Users/mei/.nuget/packages/microsoft.extensions.configuration/10.0.10/microsoft.extensions.configuration.10.0.10.nupkg.sha512",
     "/Users/mei/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.10/microsoft.extensions.configuration.abstractions.10.0.10.nupkg.sha512",
     "/Users/mei/.nuget/packages/microsoft.extensions.configuration.binder/10.0.10/microsoft.extensions.configuration.binder.10.0.10.nupkg.sha512",

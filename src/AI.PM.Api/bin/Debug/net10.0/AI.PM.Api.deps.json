@@ -29,26 +29,6 @@
           }
         }
       },
-      "Microsoft.Extensions.AI.Abstractions/10.8.3": {
-        "runtime": {
-          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
-            "assemblyVersion": "10.8.0.0",
-            "fileVersion": "10.800.326.37702"
-          }
-        }
-      },
-      "Microsoft.Extensions.AI.OpenAI/10.8.3": {
-        "dependencies": {
-          "Microsoft.Extensions.AI.Abstractions": "10.8.3",
-          "OpenAI": "2.12.0"
-        },
-        "runtime": {
-          "lib/net10.0/Microsoft.Extensions.AI.OpenAI.dll": {
-            "assemblyVersion": "10.8.0.0",
-            "fileVersion": "10.800.326.37702"
-          }
-        }
-      },
       "Microsoft.OpenApi/2.7.5": {
         "runtime": {
           "lib/net8.0/Microsoft.OpenApi.dll": {
@@ -155,7 +135,6 @@
       "AI.PM.Infrastructure/1.0.0": {
         "dependencies": {
           "AI.PM.Domain": "1.0.0",
-          "Microsoft.Extensions.AI.OpenAI": "10.8.3",
           "OpenAI": "2.12.0"
         },
         "runtime": {
@@ -179,20 +158,6 @@
       "sha512": "sha512-d4Atx9IHq7JgX0F/h7Db+m9zAUzC+cKdI9k+OWnnyQIOUQtfvjIEuhvbjPigVMkAmPUgCbJ8Yp6M9ghUqHtJSQ==",
       "path": "microsoft.aspnetcore.openapi/10.0.10",
       "hashPath": "microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512"
-    },
-    "Microsoft.Extensions.AI.Abstractions/10.8.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-K0B05oApxmviWalNHPMBBcRC7erKiDATz3ENNR/jqTR9JwIwLRefgDhj2jCRwL1aca99pXUe0qyQC73/xIuZig==",
-      "path": "microsoft.extensions.ai.abstractions/10.8.3",
-      "hashPath": "microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512"
-    },
-    "Microsoft.Extensions.AI.OpenAI/10.8.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-hMKfy4WzLoDNugWBkQhRBIi95CvboLiKTUueEMjtNSykrw00NLuPJ8cqmpB8DRO8yZCDgI7a3xLjYQhLkkkoWA==",
-      "path": "microsoft.extensions.ai.openai/10.8.3",
-      "hashPath": "microsoft.extensions.ai.openai.10.8.3.nupkg.sha512"
     },
     "Microsoft.OpenApi/2.7.5": {
       "type": "package",

@@ -24,36 +24,6 @@
           "build/Microsoft.AspNetCore.OpenApi.targets": {}
         }
       },
-      "Microsoft.Extensions.AI.Abstractions/10.8.3": {
-        "type": "package",
-        "compile": {
-          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Microsoft.Extensions.AI.OpenAI/10.8.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Extensions.AI.Abstractions": "10.8.3",
-          "OpenAI": "2.12.0"
-        },
-        "compile": {
-          "lib/net10.0/Microsoft.Extensions.AI.OpenAI.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net10.0/Microsoft.Extensions.AI.OpenAI.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Microsoft.Extensions.ApiDescription.Server/10.0.0": {
         "type": "package",
         "build": {
@@ -237,7 +207,6 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "AI.PM.Domain": "1.0.0",
-          "Microsoft.Extensions.AI.OpenAI": "10.8.3",
           "OpenAI": "2.12.0"
         },
         "compile": {
@@ -266,52 +235,6 @@
         "lib/net10.0/Microsoft.AspNetCore.OpenApi.xml",
         "microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
-      ]
-    },
-    "Microsoft.Extensions.AI.Abstractions/10.8.3": {
-      "sha512": "K0B05oApxmviWalNHPMBBcRC7erKiDATz3ENNR/jqTR9JwIwLRefgDhj2jCRwL1aca99pXUe0qyQC73/xIuZig==",
-      "type": "package",
-      "path": "microsoft.extensions.ai.abstractions/10.8.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "README.md",
-        "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll",
-        "lib/net10.0/Microsoft.Extensions.AI.Abstractions.xml",
-        "lib/net462/Microsoft.Extensions.AI.Abstractions.dll",
-        "lib/net462/Microsoft.Extensions.AI.Abstractions.xml",
-        "lib/net8.0/Microsoft.Extensions.AI.Abstractions.dll",
-        "lib/net8.0/Microsoft.Extensions.AI.Abstractions.xml",
-        "lib/net9.0/Microsoft.Extensions.AI.Abstractions.dll",
-        "lib/net9.0/Microsoft.Extensions.AI.Abstractions.xml",
-        "lib/netstandard2.0/Microsoft.Extensions.AI.Abstractions.dll",
-        "lib/netstandard2.0/Microsoft.Extensions.AI.Abstractions.xml",
-        "microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
-        "microsoft.extensions.ai.abstractions.nuspec"
-      ]
-    },
-    "Microsoft.Extensions.AI.OpenAI/10.8.3": {
-      "sha512": "hMKfy4WzLoDNugWBkQhRBIi95CvboLiKTUueEMjtNSykrw00NLuPJ8cqmpB8DRO8yZCDgI7a3xLjYQhLkkkoWA==",
-      "type": "package",
-      "path": "microsoft.extensions.ai.openai/10.8.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "README.md",
-        "lib/net10.0/Microsoft.Extensions.AI.OpenAI.dll",
-        "lib/net10.0/Microsoft.Extensions.AI.OpenAI.xml",
-        "lib/net462/Microsoft.Extensions.AI.OpenAI.dll",
-        "lib/net462/Microsoft.Extensions.AI.OpenAI.xml",
-        "lib/net8.0/Microsoft.Extensions.AI.OpenAI.dll",
-        "lib/net8.0/Microsoft.Extensions.AI.OpenAI.xml",
-        "lib/net9.0/Microsoft.Extensions.AI.OpenAI.dll",
-        "lib/net9.0/Microsoft.Extensions.AI.OpenAI.xml",
-        "lib/netstandard2.0/Microsoft.Extensions.AI.OpenAI.dll",
-        "lib/netstandard2.0/Microsoft.Extensions.AI.OpenAI.xml",
-        "microsoft.extensions.ai.openai.10.8.3.nupkg.sha512",
-        "microsoft.extensions.ai.openai.nuspec"
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/10.0.0": {

@@ -20,7 +20,8 @@ public class ChatService : IChatService
 
         return new ChatResponse
         {
-            Reply = reply
+            Reply =  reply
+
         };
     }
 }

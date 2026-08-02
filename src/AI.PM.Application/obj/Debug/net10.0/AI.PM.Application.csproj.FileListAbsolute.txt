@@ -15,3 +15,4 @@
 /Users/mei/AI-PM-Copilot/src/AI.PM.Application/obj/Debug/net10.0/refint/AI.PM.Application.dll
 /Users/mei/AI-PM-Copilot/src/AI.PM.Application/obj/Debug/net10.0/AI.PM.Application.pdb
 /Users/mei/AI-PM-Copilot/src/AI.PM.Application/obj/Debug/net10.0/ref/AI.PM.Application.dll
+/Users/mei/AI-PM-Copilot/src/AI.PM.Application/obj/Debug/net10.0/AI.PM.Application.sourcelink.json
