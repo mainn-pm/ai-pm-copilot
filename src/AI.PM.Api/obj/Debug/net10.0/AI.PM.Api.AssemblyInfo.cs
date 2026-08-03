@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI.PM.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f74659ff730e301bb7a95b510c012ae8bce58d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82d53b36ee0935ceee45b8984a8527f828bea05")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI.PM.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI.PM.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

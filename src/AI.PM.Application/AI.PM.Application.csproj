@@ -3,6 +3,9 @@
   <ItemGroup>
     <ProjectReference Include="..\AI.PM.Domain\AI.PM.Domain.csproj" />
     <ProjectReference Include="..\AI.PM.Contracts\AI.PM.Contracts.csproj" />
+    <None Update="Prompts\*.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <PropertyGroup>
